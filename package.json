@@ -1,0 +1,48 @@
+{
+    "name": "public-server",
+    "version": "1.0.0",
+    "description": "Public NodeJS server",
+    "main": "app.js",
+    "scripts": {
+        "start": "node app.js",
+        "dev": "nodemon app.js --ignore '*.json'",
+        "lint": "eslint .",
+        "lint-fix": "eslint . --fix",
+        "prettify": "prettier --write \"**/*.js\""
+    },
+    "devDependencies": {
+        "eslint": "^7.22.0",
+        "eslint-config-airbnb-base": "^14.2.1",
+        "eslint-plugin-import": "^2.22.1",
+        "nodemon": "^2.0.2",
+        "prettier": "^2.5.0"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git@gsgit.gslab.com:ISV/public/server.git"
+    },
+    "author": "Chandan Jain",
+    "license": "ISC",
+    "prettier": {
+        "tabWidth": 4,
+        "singleQuote": true,
+        "trailingComma": "es5",
+        "bracketSpacing": true,
+        "printWidth": 80,
+        "endOfLine": "lf"
+    },
+    "dependencies": {
+        "axios": "^0.24.0",
+        "body-parser": "^1.19.0",
+        "dotenv": "^10.0.0",
+        "express": "^4.17.1",
+        "express-session": "^1.17.2",
+        "fs": "^0.0.1-security",
+        "http": "^0.0.1-security",
+        "https": "^1.0.0",
+        "multer": "^1.4.4",
+        "passport": "^0.5.0",
+        "passport-openidconnect": "^0.1.0",
+        "qs": "^6.7.0"
+    }
+}

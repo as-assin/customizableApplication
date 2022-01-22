@@ -1,0 +1,50 @@
+[
+    {
+        "ssn": "111111111",
+        "firstName": "Rachel",
+        "lastName": "Green",
+        "address": "UD/LD-341",
+        "licenseNumber": "1234567890123451",
+        "enabled": true
+    },
+    {
+        "ssn": "222222222",
+        "firstName": "Phoebe",
+        "lastName": "Buffay",
+        "address": "UD/LD-343",
+        "licenseNumber": "1234567890123452",
+        "enabled": false
+    },
+    {
+        "ssn": "333333333",
+        "firstName": "Chandler",
+        "lastName": "Bing",
+        "address": "UD/LD-342",
+        "licenseNumber": "1234567890123453",
+        "enabled": false
+    },
+    {
+        "ssn": "444444444",
+        "firstName": "Joey",
+        "lastName": "Tribbiani",
+        "address": "UD/LD-345",
+        "licenseNumber": "1234567890123454",
+        "enabled": false
+    },
+    {
+        "ssn": "555555555",
+        "firstName": "Ross",
+        "lastName": "Geller",
+        "address": "UD/LD-345",
+        "licenseNumber": "1234567890123455",
+        "enabled": false
+    },
+    {
+        "ssn": "666666666",
+        "firstName": "Monica",
+        "lastName": "Geller",
+        "address": "UD/LD-345",
+        "licenseNumber": "1234567890123456",
+        "enabled": false
+    }
+]

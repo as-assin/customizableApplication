@@ -5,7 +5,7 @@
     },
     "product": {
         "selector": ".product-wrapper a",
-        "text": "Public",
+        "text": "Publsic",
         "updateISV": true
     },
     "page": {

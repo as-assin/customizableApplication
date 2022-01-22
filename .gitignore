@@ -40,8 +40,4 @@ Thumbs.db
 demo.js
 
 # Customization
-distribution/assets/config/templates_isv_theme
-distribution/assets/config/distribution-theme
-distribution/assets/config/client-config.json
-distribution/assets/config/user-identities.json
-distribution/assets/css/style.css
+distribution/assets/config/

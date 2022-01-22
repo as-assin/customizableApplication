@@ -40,7 +40,5 @@ Thumbs.db
 demo.js
 
 # Customization
-public/assets/config/templates_isv_theme
 public/assets/config/client-config.json
-public/assets/config/user-identities.json
-public/assets/css/style.css
+public/assets/config/tenant-config.json

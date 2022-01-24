@@ -9,7 +9,7 @@
         "OIDC_BASE_URI": "",
         "OIDC_CLIENT_ID": "",
         "OIDC_CLIENT_SECRET": "",
-        "THEME_ID": "",
+        "THEME_ID": "default",
         "DEFAULT": true
     }
 ]
